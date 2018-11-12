@@ -3,7 +3,7 @@ Known command-lines of fileless malicious executions.
 
 ## Motivation
 
-While hashing malicious files to identify malicious executions is easy, blocking the execution of file-less malwares is more challenging.
+While hashing malicious files to identify malicious executions is easy, blocking the execution of fileless malwares is more challenging.
 This repository's purpose is to collect command lines being used by threat actors, to ease the difficult of identifieng them.
 
 ## Structure
