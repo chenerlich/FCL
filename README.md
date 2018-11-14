@@ -12,7 +12,7 @@ Each FCL file contains\may contain the following data:
 * Malware name
 * Executing process(es)
 * Malicious command-lines (contain dysfunctional URLs)
-* Fully\Partially de-obfuscated command-lines
+* Fully\Partially deobfuscated command-lines
 * Regular Expression for detection
 * Technical write-ups
 * Sandbox report links
