@@ -3,23 +3,23 @@ Known command-lines of fileless malicious executions.
 
 ## Motivation
 
-While hashing malicious files to identify malicious executions is easy, blocking the execution of fileless malwares is more challenging.
-This repository's purpose is to collect command lines being used by threat actors, to ease the difficult of identifieng them.
+While hashing malicious files to identify malicious executions is easy, blocking the execution of fileless malware is more challenging.
+This repository's purpose is to collect command lines being used by threat actors, to ease the difficult of identifying them.
 
 ## Structure
 
 Each FCL file contains\may contain the following data:
 * Malware name
 * Executing process(es)
-* Malicious command-lines (contain disfunctioned urls)
-* Fully\Partially deobfuscated command-lines
+* Malicious command-lines (contain dysfunctional URLs)
+* Fully\Partially de-obfuscated command-lines
 * Regular Expression for detection
 * Technical write-ups
 * Sandbox report links
 * Notes
 
-## Contirbutions
-If you have any malicious related command line (deobfuscated or not), sandbox links, techincal write-up, regular expression or any useful suggestion, please share it with me and i'll update this repository accordingly.
+## Contributions
+If you have any malicious related command line (de-obfuscated or not), sandbox links, technical write-up, regular expression or any useful suggestion, please share it with me and I will update this repository accordingly.
 
 
 ## GPL 3
