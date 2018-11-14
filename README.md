@@ -19,7 +19,7 @@ Each FCL file contains\may contain the following data:
 * Notes
 
 ## Contributions
-If you have any malicious related command line (de-obfuscated or not), sandbox links, technical write-up, regular expression or any useful suggestion, please share it with me and I will update this repository accordingly.
+If you have any malicious related command line (deobfuscated or not), sandbox links, technical write-up, regular expression or any useful suggestion, please share it with me and I will update this repository accordingly.
 
 
 ## GPL 3
