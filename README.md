@@ -21,6 +21,12 @@ Each FCL file contains\may contain the following data:
 ## Contributions
 If you have any malicious related command line (deobfuscated or not), sandbox links, technical write-up, regular expression or any useful suggestion, please share it with me and I will update this repository accordingly.
 
+## References
+Here are some great references elaborating on fileless malicious executions and the use of it through time:
+* https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/fileless-threats
+* https://blog.malwarebytes.com/threat-analysis/2018/08/fileless-malware-getting-the-lowdown-on-this-insidious-threat/
+* https://zeltser.com/fileless-malware-beyond-buzzword/
+
 
 ## GPL 3
 FCL - Fileless Command Lines Copyright (C) 2018, Chen Erlich.
