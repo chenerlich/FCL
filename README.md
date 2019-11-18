@@ -1,5 +1,5 @@
 # FCL - Fileless Command Lines
-Known command-lines of fileless malicious executions.
+Known command-lines of fileless malicious executions. 
 
 ## Motivation
 
@@ -29,7 +29,7 @@ Here are some great references elaborating on fileless malicious executions and 
 
 
 ## GPL 3
-FCL - Fileless Command Lines Copyright (C) 2018, Chen Erlich.
+FCL - Fileless Command Lines Copyright (C) 2018, Chen Erlich ([@chen_erlich](https://twitter.com/chen_erlich)).
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
@@ -41,4 +41,3 @@ You should have received a copy of the GNU General Public License along with thi
 ## TODO
 - [ ] Add more fileless malwares
 - [ ] Sharp\add regular expressions
-
